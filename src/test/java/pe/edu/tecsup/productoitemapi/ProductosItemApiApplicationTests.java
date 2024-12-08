@@ -1,4 +1,4 @@
-package pe.edu.tecsup.productositemapi;
+package pe.edu.tecsup.productoitemapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

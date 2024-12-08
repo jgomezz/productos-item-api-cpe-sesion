@@ -1,0 +1,3 @@
+#spring.application.name=productos-item-api-cpe
+server :
+  port : 8180
